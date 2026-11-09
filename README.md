@@ -49,3 +49,5 @@ Para visualizar los datos almacenados en memoria mientras corre la app, ingresa 
 * **JDBC URL:** `jdbc:h2:mem:seriesdb`
 * **User Name:** `sa`
 * **Password:** *(dejar en blanco)*
+## Link postman:
+https://marielenavasquezguaita90-8514840.postman.co/workspace/7d30ad16-0bd3-48fe-85bf-caec22719630/collection/60053288-79526018-538b-4174-898d-f8c5fb8b6af9?action=share&source=copy-link&creator=60053288
